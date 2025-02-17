@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/elias/Desktop/_ITU/4.semester/LSDA25/exercisez/caiso-mlflow-practise/mlruns/0/4f8163d3fa1748efb198ddd669980d7b/artifacts
+end_time: 1739722177848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f8163d3fa1748efb198ddd669980d7b
+run_name: traveling-ray-316
+run_uuid: 4f8163d3fa1748efb198ddd669980d7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739722171786
+status: 3
+tags: []
+user_id: elias

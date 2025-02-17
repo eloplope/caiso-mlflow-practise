@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/elias/Desktop/_ITU/4.semester/LSDA25/exercisez/caiso-mlflow-practise/mlruns/0/2b221fbb70244572aea88fb0be1aa56f/artifacts
+end_time: 1739722717748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b221fbb70244572aea88fb0be1aa56f
+run_name: monumental-croc-677
+run_uuid: 2b221fbb70244572aea88fb0be1aa56f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739722714556
+status: 4
+tags: []
+user_id: elias

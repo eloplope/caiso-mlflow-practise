@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/elias/Desktop/_ITU/4.semester/LSDA25/exercisez/caiso-mlflow-practise/mlruns/0/ef6197c54f124b91a6c8c88f92877660/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef6197c54f124b91a6c8c88f92877660
+run_name: redolent-duck-713
+run_uuid: ef6197c54f124b91a6c8c88f92877660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739723162204
+status: 1
+tags: []
+user_id: elias
